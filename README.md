@@ -6,7 +6,7 @@ AI-powered supplier bill scanning.
 
 ## 🚀 Live Demo
 
-[Open MediAlert](YOUR_LIVE_DEMO_URL)
+[Open MediAlert]https://medi-alert-full-stack-with-ai-supplier-bill-scanner-8ip4ai5c6.vercel.app/login)
 
 ## 📌 About the Project
 
